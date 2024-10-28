@@ -25,18 +25,18 @@ Create self signed certificate<br/>
 <img src="https://imgur.com/AfL6iWU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Generate private key for new certificate <br/>
+<img src="https://imgur.com/RigQR6q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a CSR <br/>
+<img src="https://imgur.com/yqCXJ4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sign CSR with CA to produce new certificate  <br/>
+<img src="https://imgur.com/zdNliYi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Verify certificate  <br/>
+<img src="https://imgur.com/gW7gD4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
