@@ -39,7 +39,7 @@ Generate private key for new certificate <br/>
 <img src="https://imgur.com/RigQR6q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a CSR <br/>
+Create a certificate signing request (CSR) <br/>
 <img src="https://imgur.com/yqCXJ4c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
