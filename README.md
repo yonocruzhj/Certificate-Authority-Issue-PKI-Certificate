@@ -7,26 +7,22 @@ Project consists of
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-
 <h2>Environments Used </h2>
 
 - <b>Kali Linux</b> (21H2)
 
 <h2>Walk-through:</h2>
 
-Install Certificate Authority: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install OpenSSL: <br/>
+<img src="https://imgur.com/YUFByR5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Generate private key for CA <br/>
+<img src="https://imgur.com/eQoJGTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create self signed certificate<br/>
+<img src="https://imgur.com/AfL6iWU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
